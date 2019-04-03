@@ -1,2 +1,2 @@
 # raven
-a guide to VTOL tilt-wing drone project in mind
+a guide to VTOL tilt-rotor drone project in mind
